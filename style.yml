@@ -18,7 +18,7 @@ sources:
   geolonia:
     type: vector
     url: https://api.geolonia.com/v1/sources?key=YOUR-API-KEY
-sprite: https://raw.githubusercontent.com/geolonia/sprites.geolonia.com/add-color-icons/public/color
+sprite: https://raw.githubusercontent.com/geolonia/sprites.geolonia.com/add-color-icons/public/basic-color
 glyphs: https://glyphs.geolonia.com/{fontstack}/{range}.pbf
 layers:
   - !!inc/file layers/background.yml
